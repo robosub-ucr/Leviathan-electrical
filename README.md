@@ -1,4 +1,4 @@
-# electrical
+# Electrical
 PCB blueprints and other electrical things
 PCB Article links: The story of how UCR RoboSub SeaDragon PCB's came to be
 
